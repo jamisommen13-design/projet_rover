@@ -8,15 +8,15 @@
           "group": {
             "layout": {
               "MonPremierModele::SystemeVelocommande": {
-                "x": 24,
-                "y": 24,
+                "x": 64.16648901252553,
+                "y": 51.28289819718715,
                 "parentKey": null,
                 "collapsedW": 150,
                 "collapsedH": 108
               },
               "MonPremierModele::monVelocommande": {
-                "x": 305,
-                "y": 45,
+                "x": 96.58897210482041,
+                "y": -150.5274370798412,
                 "parentKey": null,
                 "collapsedW": 123,
                 "collapsedH": 72
@@ -29,19 +29,19 @@
               "definedBy:MonPremierModele::monVelocommande->MonPremierModele::SystemeVelocommande": {
                 "sourceHandle": "left",
                 "targetHandle": "right",
-                "path": "M 305,81L 174,78",
+                "path": "M 96.58897210482041,-114.5274370798412L 214.16648901252552,105.28289819718715",
                 "lineStyle": "straight",
                 "sourcePoint": {
-                  "x": 305,
-                  "y": 81
+                  "x": 96.58897210482041,
+                  "y": -114.5274370798412
                 },
                 "targetPoint": {
-                  "x": 174,
-                  "y": 78
+                  "x": 214.16648901252552,
+                  "y": 105.28289819718715
                 },
                 "label": {
-                  "x": 239.5,
-                  "y": 79.5
+                  "x": 155.37773055867297,
+                  "y": -4.6222694413270204
                 }
               }
             }
