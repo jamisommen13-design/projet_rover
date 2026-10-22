@@ -6,6 +6,6 @@ port capteurVitesse;
 }
 // Instanciation du système
 part monVelocommande : SystemeVelocommande {
-poids = 12.5;
+poids = 125;
 }
 }
